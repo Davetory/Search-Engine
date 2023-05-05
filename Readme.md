@@ -1,4 +1,4 @@
---README--
+SEARCH ENGINE SIMULATION
 
 #Overview
 	The search engine takes in a query string and search its database (a corpus)
